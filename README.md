@@ -25,7 +25,7 @@
 
 <p align="center">
   <video width="640" controls>
-    <source src="https://github.com/jenimathew2001/GeniePly-Job-Autofiller/blob/main/AUTOFILLING%20VIDEO.mov?raw=true" type="video/mp4">
+    <source src="https://github.com/jenimathew2001/jenimathew2001/blob/main/autofill.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
