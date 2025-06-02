@@ -21,6 +21,14 @@
 
 > Your personal job-hunting assistant — autofill job application forms and save hours every week.
 
+<h3 align="center">🎥 Demo Video</h3>
+
+<p align="center">
+  <video width="640" controls>
+    <source src="https://github.com/jenimathew2001/GeniePly-Job-Autofiller/blob/main/AUTOFILLING%20VIDEO.mov?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 ---
 
 ## 🛠️ Tech Stack
