@@ -44,7 +44,7 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeni-mathew-346253209/)
-- 📬 Email: [youremail@example.com](mailto:mathewjeni10@gmail.com)
+- 📬 Email: [mathewjeni10@gmail.com](mailto:mathewjeni10@gmail.com)
 
 ---
 
