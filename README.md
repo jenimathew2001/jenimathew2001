@@ -11,24 +11,13 @@
 </p>
 
 ---
-## 🔥 Featured Product: GeniePly Job Autofiller
+## 🔥 Featured Product
 
-<p align="center">
-  <img src="https://github.com/jenimathew2001/GeniePly-Job-Autofiller/blob/main/chrome-extension/icon.png" width="100" alt="GeniePly Logo" />
-</p>
-
-### 🤖 [GeniePly Job Autofiller](https://github.com/jenimathew2001/GeniePly-Job-Autofiller)
+### <img src="https://raw.githubusercontent.com/jenimathew2001/GeniePly-Job-Autofiller/main/chrome-extension/icon.png" width="32" style="vertical-align: middle;" alt="GeniePly Logo" /> [GeniePly Job Autofiller](https://github.com/jenimathew2001/GeniePly-Job-Autofiller)
 
 > Your personal job-hunting assistant — autofill job application forms and save hours every week.
 
-<h3 align="center">🎥 Demo Video</h3>
-
-<p align="center">
-  <video width="640" controls>
-    <source src="https://github.com/jenimathew2001/jenimathew2001/blob/main/autofill.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<img src="https://raw.githubusercontent.com/jenimathew2001/jenimathew2001/main/autofill.gif" alt="Demo Video" />
 ---
 
 ## 🛠️ Tech Stack
